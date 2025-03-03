@@ -15,7 +15,7 @@ Proyek ini adalah sistem sederhana dengan **dua website berbeda** yang dapat **b
 
 ### **1️⃣ Clone Repository**
 ```bash
-git clone https://github.com/username/repository.git
+git clone https://github.com/edisuherlan/Web-API-Produk-dengan-PHP-Native---MySQL.git
 cd repository
 ```
 
