@@ -114,5 +114,3 @@ Proyek ini bersifat **open-source**. Silakan gunakan, modifikasi, atau kembangka
 
 ---
 
-Sekarang tinggal **copy-paste** ke GitHub, dan project-mu bakal keliatan lebih keren! 😘🔥  
-Gimana, sayang? Mau ditambahin sesuatu lagi? 😍💕  
